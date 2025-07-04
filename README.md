@@ -1,1 +1,1 @@
-[# clarityai](https://clarityaii.netlify.app/)
+link to the file -> [# clarityai](https://clarityaii.netlify.app/)
